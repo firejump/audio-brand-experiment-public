@@ -1,6 +1,6 @@
 # Variant 1
-!()[variant1.png]
+![](variant1.png)
 # Variant 2
-!()[variant2.png]
+![](variant2.png)
 # Variant 3
-!()[variant3.png]
+![](variant3.png)
