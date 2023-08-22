@@ -1,6 +1,6 @@
 # Variant 1
-![](variant1.png)
+<img src="variant1.png" width="1654" height="1654">
 # Variant 2
-![](variant2.png)
+<img src="variant2.png" width="1654" height="1654">
 # Variant 3
-![](variant3.png)
+<img src="variant3.png" width="1654" height="1654">
