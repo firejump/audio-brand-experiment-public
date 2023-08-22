@@ -4,3 +4,5 @@
 ![](variant2.png)
 # Variant 3
 ![](variant3.png)
+# Variant 4
+![](variant4.png)
